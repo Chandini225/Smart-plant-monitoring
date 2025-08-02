@@ -12,6 +12,7 @@ Plant Profile Management: Struct-based lookup tables for species-specific care
 Historical Pattern Learning: Timestamped data storage with binary search for pattern recognition
 Adaptive Decision Making: Uses past conditions to inform current care recommendations
 Real-time Monitoring: Continuous sensor data collection and analysis
+
 🛠️ Hardware Requirements
 Microcontroller: ESP32 (recommended for 12-bit ADC)
 Soil Moisture Sensor: Analog capacitive or resistive sensor
