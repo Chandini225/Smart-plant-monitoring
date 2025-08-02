@@ -17,7 +17,7 @@ Real-time Monitoring: Continuous sensor data collection and analysis
 Microcontroller: ESP32 (recommended for 12-bit ADC)
 Soil Moisture Sensor: Analog capacitive or resistive sensor
 DHT22 Sensor: Temperature and humidity monitoring
-LED Indicator: Status indicator (optional)
+LED Indicator: Status indicator 
 Power Supply: 5V USB or 3.3V battery pack
 
 📈 Data Logging and Analysis
